@@ -28,13 +28,7 @@ Automation and AI tooling on self-hosted infrastructure — n8n workflows, Pytho
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-## GitHub stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=markacains&show_icons=true&count_private=true&hide_border=true&theme=default" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markacains&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165" />
-</p>
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-markacains-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markacains)
+
